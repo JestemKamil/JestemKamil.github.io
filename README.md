@@ -1,3 +1,3 @@
 # JestemKamil.github.io
 
-Pisze sobie kody 
+Pisze sobie kod
